@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+
+   id="RRJsonInput"
+   iconfile="icon.png"
+   description="RRJsonInput"
+   tooltip="input Json output field"
+   category="Input"
+   classname="org.czq.rrjsoninput.RRJsonInputMeta">
+		
+		<libraries>
+    		<library name="RRJsonInput.jar"/>
+		</libraries>
+		
+</plugin>
